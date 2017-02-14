@@ -1,0 +1,16 @@
+PODS:
+  - WKBPlaceholderTextView (0.1.0)
+
+DEPENDENCIES:
+  - WKBPlaceholderTextView (from `../`)
+
+EXTERNAL SOURCES:
+  WKBPlaceholderTextView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WKBPlaceholderTextView: 0e1931f7071d655991387f9d2cb5feaa2e6c7cc9
+
+PODFILE CHECKSUM: 19c199fa210e5be4f4bf14f1b6f4b7ce35a9d642
+
+COCOAPODS: 1.1.1

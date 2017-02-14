@@ -1,0 +1,6 @@
+framework module Pods_WKBPlaceholderTextView_Example {
+  umbrella header "Pods-WKBPlaceholderTextView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
