@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WKBPlaceholderTextView_Example' do
+  pod 'WKBPlaceholderTextView', :path => '../'
+
+  target 'WKBPlaceholderTextView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
